@@ -1,1 +1,1 @@
-# primer-juego
+Este juego fue creado por el chatgpt usando como ejemplo el juego Aateroids. El juego consiste en que la nave(triangulo blanco) vaya destruyendo los asteroides(circulos blancos) utilizando la barra espaciadora. a medida que va destruyendo va sumando puntos. Pierde cuando toca un asteroide(circulos blanco) y el juego se reinicia si presiona la tecla r.
